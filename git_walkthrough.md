@@ -33,13 +33,13 @@ We also need to add in our key to this config file otherwise we'll have to setup
 cd ~
 nano .git-credentials
 
-username:TOKEN@git@github.com:Gadoof/Gadoof.git
+username:TOKEN@git@github.com:CommonHacker/Commonm.git
 ```
 
 #### Then, you need to clone a remote repository to your device.
 
 ```
-git clone git@github.com/Gadoof/Gadoof.git
+git clone git@github.com/CommonHacker/Common.git
 ```
 
 #### Once you have a local copy, we need to verify first that nothing is configured.
@@ -71,7 +71,7 @@ ssh -T git@github.com
 git remote -v
 git status
 ```
-### Note that you may have to run 'git remote set-url origin git@github.com:Gadoof/Gadoof.git' if the remote repo is set to HTTPS.
+### Note that you may have to run 'git remote set-url origin git@github.com:CommonHacker/Common.git' if the remote repo is set to HTTPS.
 
 #### This should indicate that you have properly added the remote repository and are correctly configured to push changes.
 

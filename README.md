@@ -1,3 +1,3 @@
 ###### Hi!
 
-### Welcome to my github amd follow me through my cyber journey!
+### Welcome to my github and follow me through my cyber journey!
